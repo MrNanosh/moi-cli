@@ -1,0 +1,17 @@
+{
+  "name": "mongo-objectid-issuer",
+  "version": "1.0.0",
+  "description": "a cli that creates mongo object IDs on the command line ",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" "
+  },
+  "bin": {
+    "moi": "index.js"
+  },
+  "author": "MrNanosh",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
