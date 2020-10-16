@@ -1,6 +1,6 @@
 {
   "name": "mongo-objectid-issuer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a cli that creates mongo object IDs on the command line ",
   "repository": {
     "type": "git",
