@@ -12,8 +12,7 @@ moi
 ```
 *eg of output*
 ```
-╭─  nanosh    ~ 
-╰ moi
+nanosh:  $ >  moi
 5f88e0a3b21be084fb975f49
 ```
 
